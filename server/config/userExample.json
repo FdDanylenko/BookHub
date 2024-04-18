@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Theodore",
+    "surname": "Danylenko",
+    "code": 2175698,
+    "email": "fedirdanylenko@gmail.com",
+    "phone": "+(380)680099107",
+    "birthDate": "24-09-2004",
+    "oblast": "Kyiv",
+    "district": "District",
+    "city": "Kyiv",
+    "street": "Street",
+    "house": "123",
+    "apartment": "A",
+    "zipCode": "12345",
+    "cart": [],
+    "wishlist": [],
+    "history": [],
+    "refreshToken": "refresh-token"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "code": 298043473746,
+    "customer": {
+      "name": "Theodore",
+      "surname": "Danylenko",
+      "code": 2175698,
+      "email": "fedirdanylenko@gmail.com",
+      "phone": "+(380)680099107"
+    },
+    "books": [
+      {
+        "code": "4133973",
+        "price": 280,
+        "quantity": 1
+      },
+      {
+        "code": "4134102",
+        "price": 280,
+        "quantity": 1
+      },
+      {
+        "code": "4135920",
+        "price": 280,
+        "quantity": 1
+      }
+    ],
+    "delivery": {
+      "type": "Доставка Укрпоштою",
+      "oblast": "Одеська область",
+      "district": "Білгород-Дністровський район",
+      "city": "Білгород-Дністровський",
+      "street": "Вулиця",
+      "house": "Будинок",
+      "apartment": "Квартира",
+      "zipCode": "82365"
+    },
+    "paid": true,
+    "status": "В дорозі"
+  }
+]
